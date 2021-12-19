@@ -11,6 +11,7 @@ Using "Git it write" WordPress plugin, you can publish markdown present in a Git
 
 Since posts are published from a Github repository, you should have a public Github repository. Please check [github docs](https://docs.github.com/en/github/getting-started-with-github/create-a-repo) on how to create a Github repository if you are new to it.
 
+![test image](https://s3.us-east-1.amazonaws.com/cdn.mycontent.top/localcdn/date-calculation-in-tableau.png )
 ## Adding the repository to the plugin
 
 Once you have a Github repository (or if you wish to pull from another public repository) you can configure Git it write plugin on the same. Your repository will have an owner and the name of the repository itself. This information is used to configure in the plugin settings page.
