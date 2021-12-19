@@ -2,7 +2,7 @@
 title: Installation
 menu_order: 1
 taxonomy:
-    doc_category: wordpress-plugins
+    category: wordpress-plugins
 ---
 
 ## Downloading the plugin

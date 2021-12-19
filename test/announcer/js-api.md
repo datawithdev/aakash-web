@@ -2,7 +2,7 @@
 title: JavaScript API
 menu_order: 3
 taxonomy:
-    doc_category: wordpress-plugins
+    category: wordpress-plugins
 ---
 
 Announcements created using Announcer plugin can be controlled manually using JavaScript. This is useful if you want to show/hide the announcement on click of a button or anything similar.

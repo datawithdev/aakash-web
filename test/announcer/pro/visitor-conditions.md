@@ -2,7 +2,7 @@
 title: Visitor conditions
 menu_order: 4
 taxonomy:
-    doc_category: wordpress-plugins
+    category: wordpress-plugins
 ---
 
 With "Visitor conditions" feature in Announcer WordPress plugin, you can target specific users and display announcement only to them.

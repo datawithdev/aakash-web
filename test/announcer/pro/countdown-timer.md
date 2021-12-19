@@ -2,7 +2,7 @@
 title: Countdown timer
 menu_order: 3
 taxonomy:
-    doc_category: wordpress-plugins
+    category: wordpress-plugins
 ---
 
 Announcer - PRO plugin has a beautiful countdown timer inbuilt to make it easy to display a timer inside the announcement itself.

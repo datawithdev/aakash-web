@@ -2,7 +2,7 @@
 title: FAQ
 menu_order: 6
 taxonomy:
-    doc_category: wordpress-plugins
+    category: wordpress-plugins
 ---
 
 __Note:__ Announcer PRO is a standalone plugin and it includes more features than the Announcer free version. The documentation of the free version still applies to it. Below FAQ is specific to the PRO version features. You can find the FAQ of the free version [here](../faq.md)

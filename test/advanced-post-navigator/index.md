@@ -1,7 +1,7 @@
 ---
 title: Advanced post navigator
 taxonomy:
-    doc_category: wordpress-plugins
+    category: wordpress-plugins
 ---
 
 ## Installation

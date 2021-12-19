@@ -2,7 +2,7 @@
 title: Animation
 menu_order: 2
 taxonomy:
-    doc_category: wordpress-plugins
+    category: wordpress-plugins
 ---
 
 Announcer - PRO WordPress plugin allows to add fantastic animations to the announcement and to the CTA (call-to-action) buttons to grab the attention of your users.

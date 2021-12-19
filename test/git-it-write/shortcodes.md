@@ -2,7 +2,7 @@
 title: Shortcodes
 menu_order: 3
 taxonomy:
-    doc_category: wordpress-plugins
+    category: wordpress-plugins
 ---
 
 ## Edit link shortcode

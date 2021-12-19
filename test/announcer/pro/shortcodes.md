@@ -2,7 +2,7 @@
 title: Shortcodes
 menu_order: 5
 taxonomy:
-    doc_category: wordpress-plugins
+    category: wordpress-plugins
 ---
 
 WordPress shortcodes give the ability to insert certain feature anywhere in your website. Announcer - PRO plugin supports shortcodes which you can use to place the announcement anywhere as needed.

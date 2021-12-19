@@ -2,7 +2,7 @@
 title: Import/Export
 menu_order: 2
 taxonomy:
-    doc_category: wordpress-plugins
+    category: wordpress-plugins
 ---
 
 Importing and exporting announcements is easy. Since Announcer uses custom post type, it follows the standard import/export process of posts and pages. Note this import/export feature is supported only for the announcements created with v4.0 and above.

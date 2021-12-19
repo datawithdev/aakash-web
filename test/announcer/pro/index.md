@@ -2,7 +2,7 @@
 title: PRO
 menu_order: 2
 taxonomy:
-    doc_category: wordpress-plugins
+    category: wordpress-plugins
 ---
 
 Welcome to the documentation of Announcer - PRO plugin 👋.

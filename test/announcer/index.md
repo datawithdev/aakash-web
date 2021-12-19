@@ -1,7 +1,7 @@
 ---
 title: Announcer
 taxonomy:
-    doc_category: wordpress-plugins
+    category: wordpress-plugins
 ---
 
 Welcome to documentation for [Announcer](/wordpress-plugins/announcer/) WordPress plugin 👋
